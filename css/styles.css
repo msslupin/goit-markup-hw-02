@@ -1,0 +1,203 @@
+body {
+  background-color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+}
+
+.web-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.web-spa {
+  color: #2e2f42;
+}
+
+.page-logo-title1 {
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 3%;
+  color: #4d5ae5;
+  text-decoration: none;
+}
+
+.page-logo-title2 {
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 3%;
+  color: #2e2f42;
+  text-decoration: none;
+}
+
+.page-menu-list li {
+  list-style-type: none;
+}
+
+.page-menu-list a {
+  line-height: 1.5;
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0.02em;
+}
+
+.page-menu-list a:hover {
+  color: rgba(64, 75, 191, 1);
+}
+
+.page-menu-list a:focus {
+  color: rgba(64, 75, 191, 1);
+}
+
+.page-menu-list {
+  cursor: pointer;
+}
+.social-link {
+  font-style: normal;
+}
+.web-link a {
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  font-style: normal;
+}
+
+.social-link a:hover {
+  color: #404bbf;
+}
+
+.social-link a:focus {
+  color: #404bbf;
+}
+
+.header {
+  line-height: 1.07;
+  font-size: 56px;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+
+  text-align: center;
+}
+
+.button:focus {
+  background-color: #404bbf;
+}
+
+.button {
+  cursor: pointer;
+  letter-spacing: 0.04em;
+}
+
+.button:hover {
+  background-color: #404bbf;
+}
+.special {
+  background: #2e2f42;
+}
+.button {
+  background-color: #4d5ae5;
+
+  color: #ffffff;
+  line-height: 1.5;
+  font-weight: 500;
+}
+
+.head-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.text-name {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.section-two {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize;
+}
+
+.team-one {
+  background-color: #ffffff;
+}
+.our-team {
+  background: #f4f4fd;
+}
+
+.people-name {
+  font-weight: 500;
+  font-size: 20px;
+  color: #2e2f42;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.job-name {
+  font-weight: 400;
+  font-size: 16px;
+  color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.our-portfolio {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize;
+}
+.dark-application {
+  font-weight: 500;
+  font-size: 20px;
+  color: #2e2f42;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.application-two {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.footer-text {
+  font-size: 16px;
+  color: #e7e9fc;
+  line-height: 1.5;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+.web-footer {
+  background: #2e2f42;
+}
+
+.footer-spa {
+  color: #f4f4fd;
+}
+.head-head {
+  color: #ffffff;
+}
